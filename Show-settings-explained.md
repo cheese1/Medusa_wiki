@@ -38,16 +38,16 @@ Here you have the possibility to customize the shows settings.
  * `subtitles`  
 Should subtitles be enabled for this show. Allows Medusa to search for subtitles.  
  * `Status for previously aired episodes`  
-What status should be set for episodes that have already been aired.?  
+What status should be set for episodes that have already been aired?  
  * `Status for all future aired episodes`  
-What status should be set for episodes that have NOT yet aired.? (Set Wanted or no newly aired episodes will be downloaded!)
+What status should be set for episodes that have NOT yet aired? (Set Wanted or no newly aired episodes will be downloaded!)
  * `Flatten Folders`  
  * `Anime`  
-Is this an Anime show and should Medusa use Anime functions.?
+Is this an Anime show and should Medusa use Anime functions?
  * `Scene Numbering`  
-Should Medusa use [Scene Numbering](https://github.com/pymedusa/Medusa/wiki/Scene-exceptions-and-numbering#what-is-scene-numbering).?  
+Should Medusa use [Scene Numbering](https://github.com/pymedusa/Medusa/wiki/Scene-exceptions-and-numbering#what-is-scene-numbering)?  
  * `Preferred quality of episodes to be downloaded`  
-What [quality](https://github.com/pymedusa/Medusa/wiki/Quality-Settings) should Medusa use.?  
+What [quality](https://github.com/pymedusa/Medusa/wiki/Quality-Settings) should Medusa use?  
  * `Save Defaults`  
 This allows the settings you have selected to be saved as defaults, So you dont have to manually select them next time adding a show.  
 Now that you have setup all settings press the `add` button.  
@@ -85,16 +85,16 @@ Just as adding a new show you can set custom settings for the show(s). If you li
  * `subtitles`  
 Should subtitles be enabled for this show. Allows Medusa to search for subtitles.  
  * `Status for previously aired episodes`  
-What status should be set for episodes that have already been aired.?  
+What status should be set for episodes that have already been aired?  
  * `Status for all future aired episodes`  
-What status should be set for episodes that have NOT yet aired.? (Set Wanted or no newly aired episodes will be downloaded!)
+What status should be set for episodes that have NOT yet aired? (Set Wanted or no newly aired episodes will be downloaded!)
  * `Flatten Folders`  
  * `Anime`  
-Is this an Anime show and should Medusa use Anime functions.?
+Is this an Anime show and should Medusa use Anime functions?
  * `Scene Numbering`  
-Should Medusa use [Scene Numbering](https://github.com/pymedusa/Medusa/wiki/Scene-exceptions-and-numbering#what-is-scene-numbering).?  
+Should Medusa use [Scene Numbering](https://github.com/pymedusa/Medusa/wiki/Scene-exceptions-and-numbering#what-is-scene-numbering)?  
  * `Preferred quality of episodes to be downloaded`  
-What [quality](https://github.com/pymedusa/Medusa/wiki/Quality-Settings) should Medusa use.?  
+What [quality](https://github.com/pymedusa/Medusa/wiki/Quality-Settings) should Medusa use?  
  * `Save Defaults`  
 This allows the settings you have selected to be saved as defaults, So you dont have to manually select them next time adding a show.  
 Now that you have setup all settings press the `add` button.  
